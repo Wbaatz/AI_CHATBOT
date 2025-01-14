@@ -74,14 +74,25 @@ def run_query(query: str):
         include_metadata=True,
         include_values=False
     )
-    return [
-        {
-            'score': round(result['score'], 2),
-            'question': result['metadata'].get('question', 'Unknown question'),
-            'answer': result['metadata'].get('answer', 'No answer provided')
-        }
+    # return [
+    #     {
+    #         'score': round(result['score'], 2),
+    #         'question': result['metadata'].get('question', 'Unknown question'),
+    #         'answer': result['metadata'].get('answer', 'No answer provided')
+    #     }
+    #     for result in results['matches']
+    # ]
+
+
+    return max(
+    (result['metadata'].get('answer', 'No answer provided') for result in results['matches']),
+    key=lambda answer: next(
+        result['score']
         for result in results['matches']
-    ]
+        if result['metadata'].get('answer') == answer
+    )
+    )
+
 
 # FastAPI app
 app = FastAPI()
