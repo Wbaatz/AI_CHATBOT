@@ -1,0 +1,55 @@
+[
+        {
+          "id": "item-1",
+          "question": "What is your return policy?",
+          "answer": [
+            "Any Product/item can be returned or exchanged if it is incorrect/incomplete or defective/damaged within 7 days after delivery. Clicky.pk reserves the right to reject a return request found misusing our generous returns policy or a product received with missing tags and other components. Please note, delivery charges are non-refundable.",
+            "In case there is our mistake (damaged product or wrong item/size delivered), we will replace free of cost, and no charges will be deducted if the customer wants a refund.",
+            "In case Clicky dispatched the accurate product and the customer wants to exchange, then 400 charges will apply.",
+            "Perfumes and makeup products may only be returned if they are sealed, unopened, unused, and in their original packaging within a specified period of 7 days."
+          ]
+        },
+        {
+          "id": "item-2",
+          "question": "What are the conditions for return or exchange?",
+          "answer": [
+            "The product must be in the same condition as delivered, unworn, unwashed, and without any flaws.",
+            "The product must include the original tags, with original packaging.",
+            "Your item needs to have the receipt, order number, or proof of purchase."
+          ]
+        },
+        {
+          "id": "item-3",
+          "question": "What is the procedure for Returns or Exchange?",
+          "answer": [
+            "You can return your product easily through the Clicky app in a few seconds. Just follow these steps:",
+            "Sign in to your Clicky Account.",
+            "Go to the My Order section.",
+            "Click on the View Order for the specific order you want to place a replacement/refund request.",
+            "Select refund/replace option from the top and then click one or all items that you want returned or replaced.",
+            "Select the quantities and reason for replacement/refund.",
+            "Click on the SAVE button to submit the request."
+          ]
+        },
+        {
+          "id": "item-4",
+          "question": "What is the shipment method for return or exchange?",
+          "answer": "Once you have created your return request as described above, you have to visit the nearest TCS express center to dispatch your shipment on our provided consignment number."
+        },
+        {
+          "id": "item-5",
+          "question": "What is your refund or exchange policy?",
+          "answer": "Once we receive your item at origin, we will notify you of the status of your refund or exchange after inspecting the item. Although it depends on the criteria of the product and your choice, the product is refundable or exchangeable."
+        },
+        {
+          "id": "item-6",
+          "question": "When will I be refunded?",
+          "answer": "Once your return is approved, we will initiate a refund to your preferred payment method within 48 hours."
+        },
+        {
+          "id": "item-7",
+          "question": "When will I get my exchanged item?",
+          "answer": "Transit time for the exchange shipment is the same as our standard delivery time (3 to 5 business days) from the time the exchange is shipped. You will be entitled to get an exchange of an equal value as your original order."
+        }
+      
+]
