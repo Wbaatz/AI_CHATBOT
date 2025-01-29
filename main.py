@@ -35,6 +35,10 @@ model = SentenceTransformer('all-MiniLM-L6-v2', device=device)
 PINECONE_API_KEY = os.getenv("PINECONE_KEY")  # Replace with your Pinecone API key
 INDEX_NAME =os.getenv("INDEX_NAME")
 
+print(f"Pinecone API Key: {PINECONE_API_KEY}")
+print(f"my index : {INDEX_NAME}")
+
+
 pinecone = Pinecone(api_key=PINECONE_API_KEY)
 if INDEX_NAME in [index.name for index in pinecone.list_indexes()]:
     pinecone.delete_index(INDEX_NAME)
