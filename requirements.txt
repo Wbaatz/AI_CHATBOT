@@ -1,0 +1,9 @@
+datasets
+pinecone-client
+fastapi
+uvicorn
+sentence-transformers
+tqdm
+torch
+python-dotenv
+fastapi[all]
