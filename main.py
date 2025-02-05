@@ -20,8 +20,7 @@ genai.configure(api_key=os.getenv("GEMINI_KEY"))
 # Load the FAQ data
 with open('FAQS.json', 'r') as f:
  data = json.load(f)
-for item in data:
- print(item['question'], "-", item['answer'])
+
 
 # Extract questions and answers
 
@@ -74,15 +73,7 @@ for faq in data:
         }
     })
 index.upsert(faq_embeddings)
-# Helper function to query Pinecone
-def run_query(query: str):
-    embedding = model.encode(query).tolist()
-    results = index.query(
-        top_k=10,
-        vector=embedding,
-        include_metadata=True,
-        include_values=False
-    )
+
 
 
 
@@ -108,15 +99,10 @@ def refine_query(original_query, retrieved_docs):
 
 def multi_step_retrieval(query):
     """Perform retrieval in multiple steps to get the best context for RAG."""
-    print(f"🔹 Step 1: Initial Retrieval for query: '{query}'")
+  
     context = retrieve_docs(query)
-
-    if not context or len(context) < 2:
-        print("🔹 Step 2: Query is vague, refining...")
+    if not context or len(context) < 2: 
         query = refine_query(query, context)
-        print(f"🔹 Refined Query: {query}")
-
-        print("🔹 Step 3: Re-running retrieval...")
         context = retrieve_docs(query)
 
     return context
