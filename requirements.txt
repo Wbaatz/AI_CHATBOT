@@ -7,3 +7,4 @@ tqdm
 torch
 python-dotenv
 fastapi[all]
+google-generativeai
