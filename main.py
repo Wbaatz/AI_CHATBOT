@@ -1,3 +1,6 @@
+
+
+
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -5,6 +8,7 @@ warnings.filterwarnings('ignore')
 # pip install datasets pinecone-client fastapi uvicorn sentence-transformers tqdm torch
 import google.generativeai as genai
 import json
+from fastapi.middleware.cors import CORSMiddleware
 import os
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
@@ -119,7 +123,7 @@ Use the following information to answer the question concisely:
 {context}
 
 Q: {query}  
-A: Provide the answer  without introductory phrases like "According to the provided text." but do give a description 
+A: Provide the answer  without introductory phrases like "According to the provided text." but do give a description. see the quesries carefully. its not necessary to give regarding the faqs, sometimes the customer just want to have a chat. 
 """
     response = gemini_generate(full_prompt)
 
@@ -128,8 +132,15 @@ A: Provide the answer  without introductory phrases like "According to the provi
     return response.strip()
 
 
-# FastAPI app
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allow all domains (change this in production)
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Pydantic model for query input
 class QueryInput(BaseModel):

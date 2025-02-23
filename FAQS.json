@@ -1,504 +1,503 @@
-
-  [
-    {
-      "id": "item-1",
-      "question": "How can I create an account on Design Corner?",
-      "answer": "First-time users can register by clicking the ‘Sign Up’ button on our homepage. You’ll need to provide basic details like your name, email address, and a secure password. After registration, you’ll receive a confirmation email with your login details. Make sure to use a valid email address, as it will be used for password recovery."
-    },
-    {
-      "id": "item-2",
-      "question": "I can’t sign in to my account. What should I do?",
-      "answer": "Go to the ‘Forgot Password’ page, enter your registered email or phone number, and request an OTP. Enter the OTP to reset your password and regain access to your account."
-    },
-    {
-      "id": "item-3",
-      "question": "How can I update my account information?",
-      "answer": "You can update your account details by visiting the ‘My Account’ section on the Design Corner app or website. Make sure to save any changes before exiting."
-    },
-    {
-      "id": "item-4",
-      "question": "How do I place an order on Design Corner?",
-      "answer": "Browse our collections, select your desired items, and add them to your cart. Proceed to checkout, enter your shipping details, and choose a payment method to complete your order."
-    },
-    {
-      "id": "item-5",
-      "question": "Can I modify or cancel my order after placing it?",
-      "answer": "You can cancel or modify your order before it reaches the ‘Dispatched’ status. Visit the ‘My Orders’ section in your account to make changes."
-    },
-    {
-      "id": "item-6",
-      "question": "What is Design Corner’s cancellation policy?",
-      "answer": "Orders can only be canceled before they are dispatched. If your order has already been shipped, you can refuse delivery, and the product will be returned to our facility. Refunds will be processed after we receive the returned item."
-    },
-    {
-      "id": "item-7",
-      "question": "How can I track my order status?",
-      "answer": "You can track your order in the ‘My Orders’ section of your Design Corner account. You’ll receive updates on the shipping status and estimated delivery date."
-    },
-    {
-      "id": "item-8",
-      "question": "What should I do if I receive a damaged or defective product?",
-      "answer": "Contact our customer support within 24 hours of delivery with photos of the damaged item. We’ll assist you with a replacement or refund."
-    },
-    {
-      "id": "item-9",
-      "question": "What is Design Corner’s return policy?",
-      "answer": "You can return products within 7 days of delivery if they are unused, undamaged, and in their original packaging. Custom furniture and certain items like mattresses may not be eligible for returns."
-    },
-    {
-      "id": "item-10",
-      "question": "How do I request a return or exchange?",
-      "answer": "Go to the ‘My Orders’ section, select the item you want to return, and follow the instructions. You can also contact our support team for assistance."
-    },
-    {
-      "id": "item-11",
-      "question": "When will I receive my refund?",
-      "answer": "Refunds are processed within 5-7 business days after we receive the returned item. You’ll receive the refund via your original payment method."
-    },
-    {
-      "id": "item-12",
-      "question": "Can I exchange a product instead of returning it?",
-      "answer": "Yes, exchanges are allowed for eligible items. You can request an exchange in the ‘My Orders’ section or contact customer support."
-    },
-    {
-      "id": "item-13",
-      "question": "What payment methods does Design Corner accept?",
-      "answer": "We accept Credit/Debit Cards, Bank Transfers, Easypaisa, JazzCash, and Cash on Delivery (COD)."
-    },
-    {
-      "id": "item-14",
-      "question": "Is Cash on Delivery available?",
-      "answer": "Yes, you can pay for your order in cash at the time of delivery."
-    },
-    {
-      "id": "item-15",
-      "question": "Does Design Corner offer installment plans?",
-      "answer": "Currently, we do not offer installment plans, but we are working on introducing this feature soon."
-    },
-    {
-      "id": "item-16",
-      "question": "What are the delivery charges?",
-      "answer": "Delivery charges vary based on your location and order size. You can view the exact shipping fee at checkout."
-    },
-    {
-      "id": "item-17",
-      "question": "How long does delivery take?",
-      "answer": "Delivery usually takes 2-3 business days for major cities and 4-7 business days for remote areas. Delivery times may vary during holidays or peak seasons."
-    },
-    {
-      "id": "item-18",
-      "question": "Does Design Corner deliver internationally?",
-      "answer": "No, we currently only deliver within Pakistan."
-    },
-    {
-      "id": "item-19",
-      "question": "Can I change my shipping address after placing an order?",
-      "answer": "You can change your shipping address before the order is dispatched. If the order has already been shipped, you’ll need to contact customer support for assistance."
-    },
-    {
-      "id": "item-20",
-      "question": "How does the 3D and AR feature work?",
-      "answer": "Our 3D and AR technology allows you to visualize furniture in your space. Select the AR option on the product page, point your camera at the desired area, and place the furniture virtually."
-    },
-    {
-      "id": "item-21",
-      "question": "What devices support the AR feature?",
-      "answer": "The AR feature is supported on most modern smartphones and tablets. Ensure your device’s camera and AR capabilities are enabled."
-    },
-      {
-      "id": "item-22",
-      "question": "What should I do if the AR feature isn’t working?",
-      "answer": "Make sure your app is updated and your device supports AR. If the issue persists, contact our technical support team."
-    },
-    {
-      "id": "item-23",
-      "question": "How can I contact Design Corner’s customer support?",
-      "answer": "You can reach us via email at support@designcorner.pk or call our helpline at +92-XXX-XXXXXXX. Our support hours are from 9 AM to 9 PM, Monday to Saturday."
-    },
-    {
-      "id": "item-24",
-      "question": "I need help with my order. What should I do?",
-      "answer": "Contact our customer support team with your order details, and we’ll assist you promptly."
-    },
-      {
-      "id": "item-25",
-      "question": "Does Design Corner offer gift wrapping services?",
-      "answer": "Currently, we do not offer gift wrapping services, but we may introduce this feature in the future."
-    },
-    {
-      "id": "item-26",
-      "question": "Does Design Corner have a loyalty program?",
-      "answer": "Yes, we offer a loyalty program where you can earn points on purchases and redeem them for discounts. Stay tuned for more details!"
-    },
-    {
-      "id": "item-27",
-      "question": "How do I stay updated on new arrivals and promotions?",
-      "answer": "Subscribe to our newsletter or follow us on social media to stay updated on new arrivals, promotions, and exclusive offers."
-    },
-      {
-      "id": "item-28",
-      "question": "Can I cancel or modify my order after placing it?",
-      "answer": "You can cancel or modify your order before it is dispatched. Once the order is shipped, you’ll need to contact customer support for assistance."
-    },
-      {
-      "id": "item-29",
-      "question": "Does Design Corner offer office furniture?",
-      "answer": "Yes, we offer a wide range of office furniture, including desks, chairs, and storage solutions, designed to enhance your workspace."
-    },
-    {
-      "id": "item-30",
-      "question": "Can I try furniture virtually before buying?",
-      "answer": "Yes! With our AR feature, you can virtually place furniture in your home to see how it looks and fits. This helps you make confident decisions before purchasing."
-    },
-    {
-      "id": "item-31",
-      "question": "How do I use the AR feature?",
-      "answer": "Simply select the AR option on the product page, point your camera at the desired space, and place the furniture virtually. You can move and rotate it to see how it fits in your room."
-    },
-    {
-      "id": "item-32",
-      "question": "What furniture trends can I explore on Design Corner?",
-      "answer": "You can explore the latest trends in furniture, including chic dining tables, cozy beds, luxurious sofas, and stylish home accessories. Our platform keeps you updated with the most stylish and functional designs."
-    },
-    {
-      "id": "item-33",
-      "question": "What is Design Corner?",
-      "answer": "Design Corner is an online furniture shopping platform in Pakistan that integrates 3D and Augmented Reality (AR) technology. It allows you to explore modern, classic, and custom furniture collections for your home and office, helping you visualize how each piece fits into your space before purchasing."
-    },
-    {
-      "id": "item-34",
-      "question": "How does Design Corner’s 3D and AR technology work?",
-      "answer": "Our 3D and AR technology lets you virtually place furniture items like sofas, dining tables, and beds in your home. You can see how they look and fit in your space, ensuring a seamless and confident shopping experience."
-    },
-    {
-      "id": "item-35",
-      "question": "What types of furniture does Design Corner offer?",
-      "answer": "We offer a wide range of furniture, including sofas, dining tables, beds, armchairs, storage solutions, and home décor accessories. Our collections cater to modern, classic, and custom design preferences."
-    },
-    {
-      "id": "item-36",
-      "question": "Hi there!",
-      "answer": "Hello! Welcome to Design Corner. How can we assist you today? 😊"
-    },
-    {
-      "id": "item-37",
-      "question": "How are you?",
-      "answer": "I’m just a chatbot, but I’m here and ready to help you with all your furniture shopping needs! How can I assist you?"
-    },
-    {
-      "id": "item-38",
-      "question": "How’s it going?",
-      "answer": "Everything’s great here at Design Corner! Let me know how I can help you today."
-    },
-    {
-      "id": "item-39",
-      "question": "I need your help.",
-      "answer": "Of course! I’m here to help. What do you need assistance with? Whether it’s about furniture, orders, or our AR feature, just let me know!"
-    },
-    {
-      "id": "item-40",
-      "question": "What’s up?",
-      "answer": "Not much—just here to help you find the perfect furniture for your space! What can I do for you today?"
-    },
-    {
-      "id": "item-41",
-      "question": "Can you help me?",
-      "answer": "Absolutely! Let me know what you need help with, and I’ll guide you through it."
-    },
-    {
-      "id": "item-42",
-      "question": "Thank you!",
-      "answer": "You’re welcome! 😊 Let me know if there’s anything else I can help you with."
-    },
-    {
-      "id": "item-43",
-      "question": "Goodbye!",
-      "answer": "Goodbye! Have a great day, and don’t hesitate to return if you need more assistance. Happy shopping!"
-    },
-    {
-      "id": "item-44",
-      "question": "Does Design Corner offer gift wrapping services?",
-      "answer": "Currently, we do not offer gift wrapping services, but we may introduce this feature in the future."
-    },
-    {
-      "id": "item-45",
-      "question": "Does Design Corner have a loyalty program?",
-      "answer": "Yes, we offer a loyalty program where you can earn points on purchases and redeem them for discounts. Stay tuned for more details!"
-    },
-    {
-      "id": "item-46",
-      "question": "How do I stay updated on new arrivals and promotions?",
-      "answer": "Subscribe to our newsletter or follow us on social media to stay updated on new arrivals, promotions, and exclusive offers."
-    },
-    {
-      "id": "item-47",
-      "question": "How do I stay updated on new arrivals and promotions?",
-      "answer": "Subscribe to our newsletter or follow us on social media to stay updated on new arrivals, promotions, and exclusive offers."
-    },
-    {
-      "id": "item-48",
-      "question": "Can I cancel or modify my order after placing it?",
-      "answer": "You can cancel or modify your order before it is dispatched. Once the order is shipped, you’ll need to contact customer support for assistance."
-    },
-    {
-      "id": "item-49",
-      "question": "Does Design Corner offer office furniture?",
-      "answer": "Yes, we offer a wide range of office furniture, including desks, chairs, and storage solutions, designed to enhance your workspace."
-    },
-    {
-      "id": "item-50",
-      "question": "Can I try furniture virtually before buying?",
-      "answer": "Yes! With our AR feature, you can virtually place furniture in your home to see how it looks and fits. This helps you make confident decisions before purchasing."
-    },
-    {
-      "id": "item-51",
-      "question": "How do I use the AR feature?",
-      "answer": "Simply select the AR option on the product page, point your camera at the desired space, and place the furniture virtually. You can move and rotate it to see how it fits in your room."
-    },
-    {
-      "id": "item-52",
-      "question": "What furniture trends can I explore on Design Corner?",
-      "answer": "You can explore the latest trends in furniture, including chic dining tables, cozy beds, luxurious sofas, and stylish home accessories. Our platform keeps you updated with the most stylish and functional designs."
-    },
-    {
-      "id": "item-53",
-      "question": "What is Design Corner?",
-      "answer": "Design Corner is an online furniture shopping platform in Pakistan that integrates 3D and Augmented Reality (AR) technology. It allows you to explore modern, classic, and custom furniture collections for your home and office, helping you visualize how each piece fits into your space before purchasing."
-    },
-    {
-      "id": "item-54",
-      "question": "How does Design Corner’s 3D and AR technology work?",
-      "answer": "Our 3D and AR technology lets you virtually place furniture items like sofas, dining tables, and beds in your home. You can see how they look and fit in your space, ensuring a seamless and confident shopping experience."
-    },
-    {
-      "id": "item-55",
-      "question": "What types of furniture does Design Corner offer?",
-      "answer": "We offer a wide range of furniture, including sofas, dining tables, beds, armchairs, storage solutions, and home décor accessories. Our collections cater to modern, classic, and custom design preferences."
-    },
-    {
-      "id": "item-56",
-      "question": "What is the warranty on Design Corner furniture?",
-      "answer": "Our warranty varies depending on the specific product.  Please check the product description page for warranty details, or contact customer support for more information."
-    },
-    {
-      "id": "item-57",
-      "question": "Does Design Corner offer assembly services?",
-      "answer": "Some of our furniture may require assembly.  Information about assembly is usually included in the product description. We may offer assembly services in certain areas; please contact customer service to check availability and pricing."
-    },
-    {
-      "id": "item-58",
-      "question": "Can I customize furniture on Design Corner?",
-      "answer": "For custom furniture inquiries, please contact our customer support team.  We can discuss your specific needs and see if customization is possible."
-    },
-    {
-      "id": "item-59",
-      "question": "Does Design Corner have physical stores?",
-      "answer": "Design Corner is primarily an online platform. We may have showrooms or partner stores in the future.  Check our website for updates on physical locations."
-    },
-    {
-      "id": "item-60",
-      "question": "How do I care for my Design Corner furniture?",
-      "answer": "Care instructions vary depending on the material and type of furniture.  Please refer to the care guide that comes with your furniture or check our website for specific cleaning and maintenance tips."
-    },
-    {
-      "id": "item-61",
-      "question": "What if I can't find the item I'm looking for?",
-      "answer": "If you can't find a specific item, try using our search bar with different keywords.  You can also contact our customer support team, and they may be able to assist you or suggest alternatives."
-    },
-    {
-      "id": "item-62",
-      "question": "How do I know if a product is in stock?",
-      "answer": "Product availability is usually displayed on the product page.  If an item is out of stock, it will typically be indicated there."
-    },
-    {
-      "id": "item-63",
-      "question": "What are the terms and conditions of sale?",
-      "answer": "You can find our full terms and conditions of sale on our website, usually linked in the footer section."
-    },
-    {
-      "id": "item-64",
-      "question": "Does Design Corner offer interior design services?",
-      "answer": "Currently, we focus on providing a platform for furniture shopping with AR visualization. We do not offer full interior design services at this time, but we may explore this in the future."
-    },
-      {
-      "id": "item-65",
-      "question": "How can I provide feedback about my experience?",
-      "answer": "We value your feedback! You can contact us through our customer support channels or leave a review on our website or social media platforms."
-    },
-    {
-      "id": "item-66",
-      "question": "Does Design Corner offer discounts for bulk orders?",
-      "answer": "For bulk order inquiries and potential discounts, please contact our sales team. They can provide you with personalized assistance and information regarding pricing and availability."
-    },
-    {
-      "id": "item-67",
-      "question": "Can I save items to a wishlist?",
-      "answer": "Yes, you can create a wishlist to save your favorite items for later.  You'll typically need to create an account to use this feature."
-    },
-    {
-      "id": "item-68",
-      "question": "How often does Design Corner update its inventory?",
-      "answer": "We regularly update our inventory with new arrivals and restocked items.  Check our website frequently or subscribe to our newsletter to stay informed about the latest additions."
-    },
-    {
-      "id": "item-69",
-      "question": "What is Design Corner's privacy policy?",
-      "answer": "Our privacy policy, which details how we collect and use your data, is available on our website.  You can usually find a link to it in the footer section."
-    },
-    {
-      "id": "item-70",
-      "question": "How secure is my online payment on Design Corner?",
-      "answer": "We use secure payment gateways to ensure the safety of your online transactions.  Your payment information is encrypted and handled with the utmost care."
-    },
-    {
-      "id": "item-71",
-      "question": "What if my payment fails?",
-      "answer": "If your payment fails, please double-check your payment information and try again.  If the issue persists, contact our customer support team for assistance."
-    },
-    {
-      "id": "item-72",
-      "question": "Can I use multiple discount codes on a single order?",
-      "answer": "Typically, only one discount code can be applied per order.  Check the terms and conditions of each discount code for specific details."
-    },
-    {
-      "id": "item-73",
-      "question": "How do I redeem a discount code?",
-      "answer": "You can usually enter the discount code during the checkout process, before confirming your order."
-    },
-    {
-      "id": "item-74",
-      "question": "Does Design Corner offer gift cards?",
-      "answer": "We may offer gift cards in the future.  Check our website for updates on this feature."
-    },
-    {
-      "id": "item-75",
-      "question": "How can I unsubscribe from the Design Corner newsletter?",
-      "answer": "You can usually find an unsubscribe link at the bottom of our newsletter emails.  You can also manage your subscription preferences in your account settings."
-    },
-    {
-      "id": "item-76",
-      "question": "What is the process for resolving disputes?",
-      "answer": "If you have a dispute regarding your order or experience with Design Corner, please contact our customer support team. We will do our best to resolve the issue fairly and efficiently."
-    },
-    {
-      "id": "item-77",
-      "question": "Does Design Corner participate in any sustainability initiatives?",
-      "answer": "We are committed to sustainability and are exploring various initiatives to reduce our environmental impact.  We will share details about our sustainability efforts on our website as they develop."
-    },
-    {
-      "id": "item-78",
-      "question": "Does Design Corner offer design consultations?",
-      "answer": "While we don't currently offer formal design consultations, our AR feature helps you visualize furniture in your space.  Our customer support team can also assist with product information and recommendations."
-    },
-    {
-      "id": "item-79",
-      "question": "Can I review products on Design Corner?",
-      "answer": "Yes, we encourage you to leave reviews for products you've purchased.  This helps other customers make informed decisions."
-    },
-    {
-      "id": "item-80",
-      "question": "How are product ratings calculated?",
-      "answer": "Product ratings are typically calculated based on the average of customer reviews."
-    },
-    {
-      "id": "item-81",
-      "question": "What if I have a question that isn't answered in the FAQ?",
-      "answer": "If you have a question that isn't covered in our FAQ, please don't hesitate to contact our customer support team. They'll be happy to assist you."
-    },
-    {
-      "id": "item-82",
-      "question": "Does Design Corner offer any financing options?",
-      "answer": "We do not currently offer financing options, but we are always evaluating new ways to make your shopping experience more convenient. Please stay tuned for updates."
-    },
-    {
-      "id": "item-83",
-      "question": "How can I find out about career opportunities at Design Corner?",
-      "answer": "Information about career opportunities at Design Corner will be posted on our website, usually in a 'Careers' or 'About Us' section.  You can also follow us on social media for updates."
-    },
-    {
-      "id": "item-84",
-      "question": "Does Design Corner offer trade discounts?",
-      "answer": "For trade discount inquiries, please contact our sales team. They can provide information about eligibility and pricing for design professionals and businesses."
-    },
-    {
-      "id": "item-85",
-      "question": "How can I suggest a product to Design Corner?",
-      "answer": "We welcome your product suggestions!  You can contact our customer support team or reach out to us through our social media channels to share your ideas."
-    },
-    {
-      "id": "item-86",
-      "question": "What are Design Corner's customer service hours?",
-      "answer": "Our customer service hours are from 9 AM to 9 PM, Monday to Saturday."
-    },
-    {
-      "id": "item-87",
-      "question": "How can I stay informed about upcoming sales and promotions?",
-      "answer": "The best way to stay informed about upcoming sales and promotions is to subscribe to our newsletter and follow us on social media."
-    },
-    {
-      "id": "item-88",
-      "question": "Does Design Corner offer white-glove delivery?",
-      "answer": "We may offer white-glove delivery services in certain areas. Please contact customer service to check availability and pricing in your region."
-    },
-    {
-      "id": "item-89",
-      "question": "What is Design Corner's policy on backordered items?",
-      "answer": "If an item is backordered, we will notify you with an estimated shipping date. You will have the option to wait for the item to become available, choose a different item, or cancel your order for the backordered item."
-    },
-    {
-      "id": "item-90",
-      "question": "How do I manage my Design Corner account?",
-      "answer": "You can manage your Design Corner account by logging in and accessing the 'My Account' section. Here you can update your profile information, manage your orders, track shipments, and more."
-    },
-    {
-      "id": "item-91",
-      "question": "Does Design Corner offer assembly instructions for its products?",
-      "answer": "Yes, assembly instructions are typically included with products that require assembly.  You can also often find digital copies of the instructions on the product page of our website."
-    },
-    {
-      "id": "item-92",
-      "question": "What should I do if I receive the wrong item?",
-      "answer": "If you receive the wrong item, please contact our customer support team immediately. We will arrange for the correct item to be shipped to you and for the incorrect item to be returned."
-    },
-    {
-      "id": "item-93",
-      "question": "How can I find Design Corner on social media?",
-      "answer": "You can find us on various social media platforms.  Look for Design Corner on [List specific social media platforms, e.g., Facebook, Instagram, Twitter, etc.]. Links to our social media pages are often available on our website."
-    },
-    {
-      "id": "item-94",
-      "question": "Does Design Corner offer interior design consultations?",
-      "answer": "While we don't currently offer full interior design consultations, our AR feature helps you visualize furniture in your space. Our customer support team can also assist with product information and recommendations."
-    },
-    {
-      "id": "item-95",
-      "question": "What if I need to return an item after the 7-day return window?",
-      "answer": "Our standard return policy is 7 days. If you need to return an item after this period, please contact our customer support team to discuss your situation. We will consider requests on a case-by-case basis."
-    },
-    {
-      "id": "item-96",
-      "question": "Can I pick up my order from a warehouse or store?",
-      "answer": "Currently, we primarily operate as an online store with delivery services.  We may offer pickup options in the future; please check our website for updates."
-    },
-    {
-      "id": "item-97",
-      "question": "How does Design Corner handle customer complaints?",
-      "answer": "We take customer complaints seriously.  Please contact our customer support team with any concerns, and we will do our best to address them promptly and fairly."
-    },
-    {
-      "id": "item-98",
-      "question": "Does Design Corner offer discounts for students or military personnel?",
-      "answer": "We do not currently have specific discounts for students or military personnel, but we do offer regular promotions and discounts.  Subscribe to our newsletter to stay informed."
-    },
-    {
-      "id": "item-99",
-      "question": "How can I contact Design Corner's press or media relations team?",
-      "answer": "For press or media inquiries, please contact us at [Insert contact information for press/media relations]."
-    },
-      {
-      "id": "item-100",
-      "question": "Does Design Corner offer international shipping?",
-      "answer": "Currently, we only ship within Pakistan. We are exploring options for international shipping in the future."
-    }
-      
-  ]
+[
+  {
+    "id": "item-1",
+    "question": "How can I create an account on Design Corner?",
+    "answer": "First-time users can register by clicking the ‘Sign Up’ button on our homepage. You’ll need to provide basic details like your name, email address, and a secure password. After registration, you’ll receive a confirmation email with your login details. Make sure to use a valid email address, as it will be used for password recovery."
+  },
+  {
+    "id": "item-2",
+    "question": "I can’t sign in to my account. What should I do?",
+    "answer": "Go to the ‘Forgot Password’ page, enter your registered email or phone number, and request an OTP. Enter the OTP to reset your password and regain access to your account."
+  },
+  {
+    "id": "item-3",
+    "question": "How can I update my account information?",
+    "answer": "You can update your account details by visiting the ‘My Account’ section on the Design Corner app or website. Make sure to save any changes before exiting."
+  },
+  {
+    "id": "item-4",
+    "question": "How do I place an order on Design Corner?",
+    "answer": "Browse our collections, select your desired items, and add them to your cart. Proceed to checkout, enter your shipping details, and choose a payment method to complete your order."
+  },
+  {
+    "id": "item-5",
+    "question": "Can I modify or cancel my order after placing it?",
+    "answer": "You can cancel or modify your order before it reaches the ‘Dispatched’ status. Visit the ‘My Orders’ section in your account to make changes."
+  },
+  {
+    "id": "item-6",
+    "question": "What is Design Corner’s cancellation policy?",
+    "answer": "Orders can only be canceled before they are dispatched. If your order has already been shipped, you can refuse delivery, and the product will be returned to our facility. Refunds will be processed after we receive the returned item."
+  },
+  {
+    "id": "item-7",
+    "question": "How can I track my order status?",
+    "answer": "You can track your order in the ‘My Orders’ section of your Design Corner account. You’ll receive updates on the shipping status and estimated delivery date."
+  },
+  {
+    "id": "item-8",
+    "question": "What should I do if I receive a damaged or defective product?",
+    "answer": "Contact our customer support within 24 hours of delivery with photos of the damaged item. We’ll assist you with a replacement or refund."
+  },
+  {
+    "id": "item-9",
+    "question": "What is Design Corner’s return policy?",
+    "answer": "You can return products within 7 days of delivery if they are unused, undamaged, and in their original packaging. Custom furniture and certain items like mattresses may not be eligible for returns."
+  },
+  {
+    "id": "item-10",
+    "question": "How do I request a return or exchange?",
+    "answer": "Go to the ‘My Orders’ section, select the item you want to return, and follow the instructions. You can also contact our support team for assistance."
+  },
+  {
+    "id": "item-11",
+    "question": "When will I receive my refund?",
+    "answer": "Refunds are processed within 5-7 business days after we receive the returned item. You’ll receive the refund via your original payment method."
+  },
+  {
+    "id": "item-12",
+    "question": "Can I exchange a product instead of returning it?",
+    "answer": "Yes, exchanges are allowed for eligible items. You can request an exchange in the ‘My Orders’ section or contact customer support."
+  },
+  {
+    "id": "item-13",
+    "question": "What payment methods does Design Corner accept?",
+    "answer": "We accept Credit/Debit Cards, Bank Transfers, Easypaisa, JazzCash, and Cash on Delivery (COD)."
+  },
+  {
+    "id": "item-14",
+    "question": "Is Cash on Delivery available?",
+    "answer": "Yes, you can pay for your order in cash at the time of delivery."
+  },
+  {
+    "id": "item-15",
+    "question": "Does Design Corner offer installment plans?",
+    "answer": "Currently, we do not offer installment plans, but we are working on introducing this feature soon."
+  },
+  {
+    "id": "item-16",
+    "question": "What are the delivery charges?",
+    "answer": "Delivery charges vary based on your location and order size. You can view the exact shipping fee at checkout."
+  },
+  {
+    "id": "item-17",
+    "question": "How long does delivery take?",
+    "answer": "Delivery usually takes 2-3 business days for major cities and 4-7 business days for remote areas. Delivery times may vary during holidays or peak seasons."
+  },
+  {
+    "id": "item-18",
+    "question": "Does Design Corner deliver internationally?",
+    "answer": "No, we currently only deliver within Pakistan."
+  },
+  {
+    "id": "item-19",
+    "question": "Can I change my shipping address after placing an order?",
+    "answer": "You can change your shipping address before the order is dispatched. If the order has already been shipped, you’ll need to contact customer support for assistance."
+  },
+  {
+    "id": "item-20",
+    "question": "How does the 3D and AR feature work?",
+    "answer": "Our 3D and AR technology allows you to visualize furniture in your space. Select the AR option on the product page, point your camera at the desired area, and place the furniture virtually."
+  },
+  {
+    "id": "item-21",
+    "question": "What devices support the AR feature?",
+    "answer": "The AR feature is supported on most modern smartphones and tablets. Ensure your device’s camera and AR capabilities are enabled."
+  },
+    {
+    "id": "item-22",
+    "question": "What should I do if the AR feature isn’t working?",
+    "answer": "Make sure your app is updated and your device supports AR. If the issue persists, contact our technical support team."
+  },
+  {
+    "id": "item-23",
+    "question": "How can I contact Design Corner’s customer support?",
+    "answer": "You can reach us via email at support@designcorner.pk or call our helpline at +92-XXX-XXXXXXX. Our support hours are from 9 AM to 9 PM, Monday to Saturday."
+  },
+  {
+    "id": "item-24",
+    "question": "I need help with my order. What should I do?",
+    "answer": "Contact our customer support team with your order details, and we’ll assist you promptly."
+  },
+    {
+    "id": "item-25",
+    "question": "Does Design Corner offer gift wrapping services?",
+    "answer": "Currently, we do not offer gift wrapping services, but we may introduce this feature in the future."
+  },
+  {
+    "id": "item-26",
+    "question": "Does Design Corner have a loyalty program?",
+    "answer": "Yes, we offer a loyalty program where you can earn points on purchases and redeem them for discounts. Stay tuned for more details!"
+  },
+  {
+    "id": "item-27",
+    "question": "How do I stay updated on new arrivals and promotions?",
+    "answer": "Subscribe to our newsletter or follow us on social media to stay updated on new arrivals, promotions, and exclusive offers."
+  },
+    {
+    "id": "item-28",
+    "question": "Can I cancel or modify my order after placing it?",
+    "answer": "You can cancel or modify your order before it is dispatched. Once the order is shipped, you’ll need to contact customer support for assistance."
+  },
+    {
+    "id": "item-29",
+    "question": "Does Design Corner offer office furniture?",
+    "answer": "Yes, we offer a wide range of office furniture, including desks, chairs, and storage solutions, designed to enhance your workspace."
+  },
+  {
+    "id": "item-30",
+    "question": "Can I try furniture virtually before buying?",
+    "answer": "Yes! With our AR feature, you can virtually place furniture in your home to see how it looks and fits. This helps you make confident decisions before purchasing."
+  },
+  {
+    "id": "item-31",
+    "question": "How do I use the AR feature?",
+    "answer": "Simply select the AR option on the product page, point your camera at the desired space, and place the furniture virtually. You can move and rotate it to see how it fits in your room."
+  },
+  {
+    "id": "item-32",
+    "question": "What furniture trends can I explore on Design Corner?",
+    "answer": "You can explore the latest trends in furniture, including chic dining tables, cozy beds, luxurious sofas, and stylish home accessories. Our platform keeps you updated with the most stylish and functional designs."
+  },
+  {
+    "id": "item-33",
+    "question": "What is Design Corner?",
+    "answer": "Design Corner is an online furniture shopping platform in Pakistan that integrates 3D and Augmented Reality (AR) technology. It allows you to explore modern, classic, and custom furniture collections for your home and office, helping you visualize how each piece fits into your space before purchasing."
+  },
+  {
+    "id": "item-34",
+    "question": "How does Design Corner’s 3D and AR technology work?",
+    "answer": "Our 3D and AR technology lets you virtually place furniture items like sofas, dining tables, and beds in your home. You can see how they look and fit in your space, ensuring a seamless and confident shopping experience."
+  },
+  {
+    "id": "item-35",
+    "question": "What types of furniture does Design Corner offer?",
+    "answer": "We offer a wide range of furniture, including sofas, dining tables, beds, armchairs, storage solutions, and home décor accessories. Our collections cater to modern, classic, and custom design preferences."
+  },
+  {
+    "id": "item-36",
+    "question": "Hi there!",
+    "answer": "Hello! Welcome to Design Corner. How can we assist you today? 😊"
+  },
+  {
+    "id": "item-37",
+    "question": "How are you?",
+    "answer": "I’m just a chatbot, but I’m here and ready to help you with all your furniture shopping needs! How can I assist you?"
+  },
+  {
+    "id": "item-38",
+    "question": "How’s it going?",
+    "answer": "Everything’s great here at Design Corner! Let me know how I can help you today."
+  },
+  {
+    "id": "item-39",
+    "question": "I need your help.",
+    "answer": "Of course! I’m here to help. What do you need assistance with? Whether it’s about furniture, orders, or our AR feature, just let me know!"
+  },
+  {
+    "id": "item-40",
+    "question": "What’s up?",
+    "answer": "Not much—just here to help you find the perfect furniture for your space! What can I do for you today?"
+  },
+  {
+    "id": "item-41",
+    "question": "Can you help me?",
+    "answer": "Absolutely! Let me know what you need help with, and I’ll guide you through it."
+  },
+  {
+    "id": "item-42",
+    "question": "Thank you!",
+    "answer": "You’re welcome! 😊 Let me know if there’s anything else I can help you with."
+  },
+  {
+    "id": "item-43",
+    "question": "Goodbye!",
+    "answer": "Goodbye! Have a great day, and don’t hesitate to return if you need more assistance. Happy shopping!"
+  },
+  {
+    "id": "item-44",
+    "question": "Does Design Corner offer gift wrapping services?",
+    "answer": "Currently, we do not offer gift wrapping services, but we may introduce this feature in the future."
+  },
+  {
+    "id": "item-45",
+    "question": "Does Design Corner have a loyalty program?",
+    "answer": "Yes, we offer a loyalty program where you can earn points on purchases and redeem them for discounts. Stay tuned for more details!"
+  },
+  {
+    "id": "item-46",
+    "question": "How do I stay updated on new arrivals and promotions?",
+    "answer": "Subscribe to our newsletter or follow us on social media to stay updated on new arrivals, promotions, and exclusive offers."
+  },
+  {
+    "id": "item-47",
+    "question": "How do I stay updated on new arrivals and promotions?",
+    "answer": "Subscribe to our newsletter or follow us on social media to stay updated on new arrivals, promotions, and exclusive offers."
+  },
+  {
+    "id": "item-48",
+    "question": "Can I cancel or modify my order after placing it?",
+    "answer": "You can cancel or modify your order before it is dispatched. Once the order is shipped, you’ll need to contact customer support for assistance."
+  },
+  {
+    "id": "item-49",
+    "question": "Does Design Corner offer office furniture?",
+    "answer": "Yes, we offer a wide range of office furniture, including desks, chairs, and storage solutions, designed to enhance your workspace."
+  },
+  {
+    "id": "item-50",
+    "question": "Can I try furniture virtually before buying?",
+    "answer": "Yes! With our AR feature, you can virtually place furniture in your home to see how it looks and fits. This helps you make confident decisions before purchasing."
+  },
+  {
+    "id": "item-51",
+    "question": "How do I use the AR feature?",
+    "answer": "Simply select the AR option on the product page, point your camera at the desired space, and place the furniture virtually. You can move and rotate it to see how it fits in your room."
+  },
+  {
+    "id": "item-52",
+    "question": "What furniture trends can I explore on Design Corner?",
+    "answer": "You can explore the latest trends in furniture, including chic dining tables, cozy beds, luxurious sofas, and stylish home accessories. Our platform keeps you updated with the most stylish and functional designs."
+  },
+  {
+    "id": "item-53",
+    "question": "What is Design Corner?",
+    "answer": "Design Corner is an online furniture shopping platform in Pakistan that integrates 3D and Augmented Reality (AR) technology. It allows you to explore modern, classic, and custom furniture collections for your home and office, helping you visualize how each piece fits into your space before purchasing."
+  },
+  {
+    "id": "item-54",
+    "question": "How does Design Corner’s 3D and AR technology work?",
+    "answer": "Our 3D and AR technology lets you virtually place furniture items like sofas, dining tables, and beds in your home. You can see how they look and fit in your space, ensuring a seamless and confident shopping experience."
+  },
+  {
+    "id": "item-55",
+    "question": "What types of furniture does Design Corner offer?",
+    "answer": "We offer a wide range of furniture, including sofas, dining tables, beds, armchairs, storage solutions, and home décor accessories. Our collections cater to modern, classic, and custom design preferences."
+  },
+  {
+    "id": "item-56",
+    "question": "What is the warranty on Design Corner furniture?",
+    "answer": "Our warranty varies depending on the specific product.  Please check the product description page for warranty details, or contact customer support for more information."
+  },
+  {
+    "id": "item-57",
+    "question": "Does Design Corner offer assembly services?",
+    "answer": "Some of our furniture may require assembly.  Information about assembly is usually included in the product description. We may offer assembly services in certain areas; please contact customer service to check availability and pricing."
+  },
+  {
+    "id": "item-58",
+    "question": "Can I customize furniture on Design Corner?",
+    "answer": "For custom furniture inquiries, please contact our customer support team.  We can discuss your specific needs and see if customization is possible."
+  },
+  {
+    "id": "item-59",
+    "question": "Does Design Corner have physical stores?",
+    "answer": "Design Corner is primarily an online platform. We may have showrooms or partner stores in the future.  Check our website for updates on physical locations."
+  },
+  {
+    "id": "item-60",
+    "question": "How do I care for my Design Corner furniture?",
+    "answer": "Care instructions vary depending on the material and type of furniture.  Please refer to the care guide that comes with your furniture or check our website for specific cleaning and maintenance tips."
+  },
+  {
+    "id": "item-61",
+    "question": "What if I can't find the item I'm looking for?",
+    "answer": "If you can't find a specific item, try using our search bar with different keywords.  You can also contact our customer support team, and they may be able to assist you or suggest alternatives."
+  },
+  {
+    "id": "item-62",
+    "question": "How do I know if a product is in stock?",
+    "answer": "Product availability is usually displayed on the product page.  If an item is out of stock, it will typically be indicated there."
+  },
+  {
+    "id": "item-63",
+    "question": "What are the terms and conditions of sale?",
+    "answer": "You can find our full terms and conditions of sale on our website, usually linked in the footer section."
+  },
+  {
+    "id": "item-64",
+    "question": "Does Design Corner offer interior design services?",
+    "answer": "Currently, we focus on providing a platform for furniture shopping with AR visualization. We do not offer full interior design services at this time, but we may explore this in the future."
+  },
+    {
+    "id": "item-65",
+    "question": "How can I provide feedback about my experience?",
+    "answer": "We value your feedback! You can contact us through our customer support channels or leave a review on our website or social media platforms."
+  },
+  {
+    "id": "item-66",
+    "question": "Does Design Corner offer discounts for bulk orders?",
+    "answer": "For bulk order inquiries and potential discounts, please contact our sales team. They can provide you with personalized assistance and information regarding pricing and availability."
+  },
+  {
+    "id": "item-67",
+    "question": "Can I save items to a wishlist?",
+    "answer": "Yes, you can create a wishlist to save your favorite items for later.  You'll typically need to create an account to use this feature."
+  },
+  {
+    "id": "item-68",
+    "question": "How often does Design Corner update its inventory?",
+    "answer": "We regularly update our inventory with new arrivals and restocked items.  Check our website frequently or subscribe to our newsletter to stay informed about the latest additions."
+  },
+  {
+    "id": "item-69",
+    "question": "What is Design Corner's privacy policy?",
+    "answer": "Our privacy policy, which details how we collect and use your data, is available on our website.  You can usually find a link to it in the footer section."
+  },
+  {
+    "id": "item-70",
+    "question": "How secure is my online payment on Design Corner?",
+    "answer": "We use secure payment gateways to ensure the safety of your online transactions.  Your payment information is encrypted and handled with the utmost care."
+  },
+  {
+    "id": "item-71",
+    "question": "What if my payment fails?",
+    "answer": "If your payment fails, please double-check your payment information and try again.  If the issue persists, contact our customer support team for assistance."
+  },
+  {
+    "id": "item-72",
+    "question": "Can I use multiple discount codes on a single order?",
+    "answer": "Typically, only one discount code can be applied per order.  Check the terms and conditions of each discount code for specific details."
+  },
+  {
+    "id": "item-73",
+    "question": "How do I redeem a discount code?",
+    "answer": "You can usually enter the discount code during the checkout process, before confirming your order."
+  },
+  {
+    "id": "item-74",
+    "question": "Does Design Corner offer gift cards?",
+    "answer": "We may offer gift cards in the future.  Check our website for updates on this feature."
+  },
+  {
+    "id": "item-75",
+    "question": "How can I unsubscribe from the Design Corner newsletter?",
+    "answer": "You can usually find an unsubscribe link at the bottom of our newsletter emails.  You can also manage your subscription preferences in your account settings."
+  },
+  {
+    "id": "item-76",
+    "question": "What is the process for resolving disputes?",
+    "answer": "If you have a dispute regarding your order or experience with Design Corner, please contact our customer support team. We will do our best to resolve the issue fairly and efficiently."
+  },
+  {
+    "id": "item-77",
+    "question": "Does Design Corner participate in any sustainability initiatives?",
+    "answer": "We are committed to sustainability and are exploring various initiatives to reduce our environmental impact.  We will share details about our sustainability efforts on our website as they develop."
+  },
+  {
+    "id": "item-78",
+    "question": "Does Design Corner offer design consultations?",
+    "answer": "While we don't currently offer formal design consultations, our AR feature helps you visualize furniture in your space.  Our customer support team can also assist with product information and recommendations."
+  },
+  {
+    "id": "item-79",
+    "question": "Can I review products on Design Corner?",
+    "answer": "Yes, we encourage you to leave reviews for products you've purchased.  This helps other customers make informed decisions."
+  },
+  {
+    "id": "item-80",
+    "question": "How are product ratings calculated?",
+    "answer": "Product ratings are typically calculated based on the average of customer reviews."
+  },
+  {
+    "id": "item-81",
+    "question": "What if I have a question that isn't answered in the FAQ?",
+    "answer": "If you have a question that isn't covered in our FAQ, please don't hesitate to contact our customer support team. They'll be happy to assist you."
+  },
+  {
+    "id": "item-82",
+    "question": "Does Design Corner offer any financing options?",
+    "answer": "We do not currently offer financing options, but we are always evaluating new ways to make your shopping experience more convenient. Please stay tuned for updates."
+  },
+  {
+    "id": "item-83",
+    "question": "How can I find out about career opportunities at Design Corner?",
+    "answer": "Information about career opportunities at Design Corner will be posted on our website, usually in a 'Careers' or 'About Us' section.  You can also follow us on social media for updates."
+  },
+  {
+    "id": "item-84",
+    "question": "Does Design Corner offer trade discounts?",
+    "answer": "For trade discount inquiries, please contact our sales team. They can provide information about eligibility and pricing for design professionals and businesses."
+  },
+  {
+    "id": "item-85",
+    "question": "How can I suggest a product to Design Corner?",
+    "answer": "We welcome your product suggestions!  You can contact our customer support team or reach out to us through our social media channels to share your ideas."
+  },
+  {
+    "id": "item-86",
+    "question": "What are Design Corner's customer service hours?",
+    "answer": "Our customer service hours are from 9 AM to 9 PM, Monday to Saturday."
+  },
+  {
+    "id": "item-87",
+    "question": "How can I stay informed about upcoming sales and promotions?",
+    "answer": "The best way to stay informed about upcoming sales and promotions is to subscribe to our newsletter and follow us on social media."
+  },
+  {
+    "id": "item-88",
+    "question": "Does Design Corner offer white-glove delivery?",
+    "answer": "We may offer white-glove delivery services in certain areas. Please contact customer service to check availability and pricing in your region."
+  },
+  {
+    "id": "item-89",
+    "question": "What is Design Corner's policy on backordered items?",
+    "answer": "If an item is backordered, we will notify you with an estimated shipping date. You will have the option to wait for the item to become available, choose a different item, or cancel your order for the backordered item."
+  },
+  {
+    "id": "item-90",
+    "question": "How do I manage my Design Corner account?",
+    "answer": "You can manage your Design Corner account by logging in and accessing the 'My Account' section. Here you can update your profile information, manage your orders, track shipments, and more."
+  },
+  {
+    "id": "item-91",
+    "question": "Does Design Corner offer assembly instructions for its products?",
+    "answer": "Yes, assembly instructions are typically included with products that require assembly.  You can also often find digital copies of the instructions on the product page of our website."
+  },
+  {
+    "id": "item-92",
+    "question": "What should I do if I receive the wrong item?",
+    "answer": "If you receive the wrong item, please contact our customer support team immediately. We will arrange for the correct item to be shipped to you and for the incorrect item to be returned."
+  },
+  {
+    "id": "item-93",
+    "question": "How can I find Design Corner on social media?",
+    "answer": "You can find us on various social media platforms.  Look for Design Corner on [List specific social media platforms, e.g., Facebook, Instagram, Twitter, etc.]. Links to our social media pages are often available on our website."
+  },
+  {
+    "id": "item-94",
+    "question": "Does Design Corner offer interior design consultations?",
+    "answer": "While we don't currently offer full interior design consultations, our AR feature helps you visualize furniture in your space. Our customer support team can also assist with product information and recommendations."
+  },
+  {
+    "id": "item-95",
+    "question": "What if I need to return an item after the 7-day return window?",
+    "answer": "Our standard return policy is 7 days. If you need to return an item after this period, please contact our customer support team to discuss your situation. We will consider requests on a case-by-case basis."
+  },
+  {
+    "id": "item-96",
+    "question": "Can I pick up my order from a warehouse or store?",
+    "answer": "Currently, we primarily operate as an online store with delivery services.  We may offer pickup options in the future; please check our website for updates."
+  },
+  {
+    "id": "item-97",
+    "question": "How does Design Corner handle customer complaints?",
+    "answer": "We take customer complaints seriously.  Please contact our customer support team with any concerns, and we will do our best to address them promptly and fairly."
+  },
+  {
+    "id": "item-98",
+    "question": "Does Design Corner offer discounts for students or military personnel?",
+    "answer": "We do not currently have specific discounts for students or military personnel, but we do offer regular promotions and discounts.  Subscribe to our newsletter to stay informed."
+  },
+  {
+    "id": "item-99",
+    "question": "How can I contact Design Corner's press or media relations team?",
+    "answer": "For press or media inquiries, please contact us at [Insert contact information for press/media relations]."
+  },
+    {
+    "id": "item-100",
+    "question": "Does Design Corner offer international shipping?",
+    "answer": "Currently, we only ship within Pakistan. We are exploring options for international shipping in the future."
+  }
+    
+]
